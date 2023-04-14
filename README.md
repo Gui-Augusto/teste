@@ -6,5 +6,6 @@ Curso de Git e GitHub Alura
 > Status do projeto: Em desenvolvimento
 
 ```
-node app.js
+node app.js 
+:)
 ```
